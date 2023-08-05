@@ -1,2 +1,2 @@
 # Repositorio2023
-Pensamento computacional
+repositorio 2023 para pensamento computacional :)
